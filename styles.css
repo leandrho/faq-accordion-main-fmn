@@ -33,6 +33,11 @@ body{
 
     font-family: "Work Sans", sans-serif;
 }
+hr{
+    border: none;
+    height: 1px;
+    background-color: var(--Light-pink);
+}
 .container{
     display: flex;
     justify-content: center;
