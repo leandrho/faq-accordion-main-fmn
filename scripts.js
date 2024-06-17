@@ -16,3 +16,5 @@ checkboxes.forEach((checkbox)=>{
         item.classList.toggle("active");
     });
 });
+
+titles[0].dispatchEvent(new Event('click'));
